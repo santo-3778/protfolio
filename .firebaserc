@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "santo-3778"
+  },
+  "targets": {
+    "santo-3778": {
+      "hosting": {
+        "cv": [
+          "santo-3778"
+        ]
+      }
+    }
+  }
+}
